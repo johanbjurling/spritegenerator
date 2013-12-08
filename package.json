@@ -1,0 +1,14 @@
+{
+  "name": "spritegenerator",
+  "author": "Johan Bjurling",
+  "description": "A package intended to be uses as a grunt task for automatically generating css sprites",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "gm": "1.13.3"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
